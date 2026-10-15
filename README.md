@@ -1,7 +1,7 @@
 # 🛡️ worldsim-guard
 
 **The Physical Reality Firewall for World Models & VLA Policies.**  
-Generative world models and Vision-Language-Action (VLA) policies excel at semantic and high-level physical intuition—until a diffusion step hallucinates a trajectory discontinuity that demands 500 rad/s² of joint acceleration or exceeds human-collaborative kinetic energy bounds.
+Generative world models and Vision-Language-Action (VLA) policies excel at semantic and high-level physical intuition until a diffusion step hallucinates a trajectory discontinuity that demands 500 rad/s² of joint acceleration or exceeds human-collaborative kinetic energy bounds.
 
 `worldsim-guard` is a lightweight, sub-millisecond execution firewall that sits between generative action chunks (from Worldsim, OpenVLA, Pi0, Cosmos, or diffusion policies) and physical actuators.
 
