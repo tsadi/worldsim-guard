@@ -19,3 +19,6 @@ Homepage = "https://github.com/tsadi/worldsim-guard"
 
 [tool.setuptools]
 packages = ["worldsim_guard"]
+
+[project.scripts]
+worldsim-guard = "worldsim_guard.cli:main"
